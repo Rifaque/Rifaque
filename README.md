@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifaque&label=Profile%20views&color=0e75b6&style=flat" alt="rifaque" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifaque" alt="rifaque" /></a> </p>
-
 - 🔭 I’m currently working on [Hub Zero Website](https://hubzero.in)
 
 - 🌱 I’m currently learning **React, GSAP + ScrollTrigger, MongoDB, JWT Auth**
