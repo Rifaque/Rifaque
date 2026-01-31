@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hey, I’m Rifaque<br><br>I’m a CSE student and full-stack developer who loves building clean, practical solutions — from web apps to backend tools and everything in between. I work with JavaScript, React, Next.js, Node.js, Prisma, SQL, and Python, and I’m always experimenting with new ideas, optimizing code, and polishing my projects.<br><br>If you’re checking out this repo, thanks for stopping by — hope you find something useful here.
+👋 Hey, I’m Rifaque
+
+I’m a CSE student and full-stack developer who enjoys building clean, practical solutions — from modern web apps to backend tools and everything in between. I work mainly with JavaScript, React, Next.js, Node.js, Prisma, SQL, and Python, and I like taking projects from idea to polished, usable products.
+
+I’m always experimenting, optimizing code, and refining details to make things work better and feel right.
+
+If you’re checking out this repo, thanks for stopping by — hope you find something useful here.
 
 
 ## 🌐 Socials:
